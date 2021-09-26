@@ -22,8 +22,8 @@
 * built_value_generator
 
 ## VSCode extensions
-* Dart Built Value Snippets v1.1.1
-* Dart build_runner v1.0.6
+* Dart build_runner
+* Built Value Snippets
 
 ## Let's do it
 
