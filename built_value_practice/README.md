@@ -45,5 +45,4 @@ Run this in debug mode
 
 ## Resources
 * https://medium.com/litslink/flutter-model-codegen-using-build-value-package-8e1957663e49
-* https://stacksecrets.com/flutter/how-to-use-built_value-library
-* http://stacksecrets.com/flutter/json-serialization-in-dart-flutter-with-built_value
+* https://github.com/google/built_value.dart/blob/master/example/lib/example.dart
