@@ -6,13 +6,6 @@
 * `dart create -t console-simple built_value_for_json_modeling`
 * You can't use project name same with existing package name.
 
-### Projects templates from `dart help create`
-* console-simple: A simple command-line application. (default)
-* console-full: A command-line application sample.
-* package-simple: A starting point for Dart libraries or applications.
-* server-shelf: A server app using `package:shelf`
-* web-simple: A web app that uses only core Dart libraries.
-
 ## Dart/Flutter packages
 
 ### Dependencies
